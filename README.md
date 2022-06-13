@@ -5,7 +5,7 @@ https://remarkable-paprenjak-9e5ec1.netlify.app/
 
 
 
-ReactJS, NodeJS Application
+ReactJS, NodeJS, JSX Application
 
 ** To install download the source code and run npm install in the project directory
 
